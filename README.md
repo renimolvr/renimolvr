@@ -1,106 +1,184 @@
-# Hi there 👋 I'm Renimol V R
+# Renimol V R
 
-🔭 I’m currently working as a **Research Assistant at ICFOSS**, working on **Malayalam NLP and Morphological Analysis** as part of the **DL-DiscoMT** project.
+**Research Assistant | NLP & Language Technology | Machine Learning | Indian Language AI**
 
-🌱 I’m currently learning and exploring **Deep Learning, Natural Language Processing, Large Language Models, RAG, Machine Translation, and Speech Technologies**.
+I am a **Research Assistant at ICFOSS**, working on **Malayalam Natural Language Processing and Language Technology** under the **DL-DiscoMT (Discourse Integrated Dravidian Language to Dravidian Language Machine Translation)** project.
 
-👯 I’m looking to collaborate on projects related to **NLP, Indian Language AI, Machine Translation, Malayalam Language Technology, and Generative AI**.
+My work focuses on developing computational resources and AI systems for **low-resource Indian languages**, with particular interests in **morphological analysis, machine translation, multilingual NLP, and language models**.
 
-🤔 I’m looking for help with exploring **advanced NLP architectures, multilingual LLMs, morphological analysis, and improving AI systems for low-resource Indian languages**.
-
-💬 Ask me about **Python, Machine Learning, NLP, Malayalam NLP, Morphological Analysis, Machine Translation, RAG, Transformers, ASR, TTS, and Data Analytics**.
-
-📫 How to reach me: **[LinkedIn](YOUR_LINKEDIN_URL)** | **[Email](mailto:YOUR_EMAIL)**
-
-😄 Pronouns: **She/Her**
-
-⚡ Fun fact: **I enjoy turning linguistic problems into data and building AI systems that can understand Indian languages!**
+I hold an **MSc in Data Analytics** and a **Bachelor's degree in Mathematics**, with a background that combines mathematical foundations, data analytics, machine learning, and computational linguistics.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🔬 Research & Technical Focus
+
+* **Natural Language Processing**
+* **Malayalam Language Technology**
+* **Morphological Analysis & Morpheme Segmentation**
+* **Machine Translation**
+* **Multilingual & Low-Resource NLP**
+* **Large Language Models & Generative AI**
+* **Retrieval-Augmented Generation (RAG)**
+* **Automatic Speech Recognition & Text-to-Speech**
+* **Deep Learning & Transformer Architectures**
+* **Linguistic Resource Development**
+
+---
+
+## 💼 Current Work
+
+### Malayalam Morphological Analysis
+
+As part of the DL-DiscoMT project, I work on the development of a **Malayalam morphological analyzer** combining linguistic rules and neural approaches.
+
+Current work includes:
+
+* Development of Malayalam morphological paradigms
+* Inflectional rule development
+* Lemma identification
+* Morpheme segmentation
+* Morphological training-data generation
+* Malayalam linguistic resource development
+* Transformer-based sequence-to-sequence modeling
+* Evaluation using token-, character-, and sequence-level metrics
+
+The work involves integrating **linguistic knowledge with machine learning approaches** to improve computational processing of Malayalam.
+
+---
+
+## 🚀 Selected Projects
+
+### Malayalam Conversational AI
+
+A domain-specific conversational AI system designed for Malayalam content and Linux/Ubuntu-related knowledge.
+
+**Technologies:**
+`Python` `LangChain` `LangGraph` `FAISS` `LLMs` `RAG` `ASR` `TTS` `Streamlit`
+
+Key components include:
+
+* Retrieval-Augmented Generation
+* Malayalam semantic embeddings
+* FAISS-based document retrieval
+* Malayalam speech recognition
+* Text-to-speech generation
+* Conversational memory
+* Web-search fallback
+* Malayalam document processing
+
+---
+
+### Hindi → Malayalam Neural Machine Translation
+
+Developed a neural machine translation system for **Hindi–Malayalam translation** using large-scale parallel data.
+
+**Technologies:**
+`Python` `Fairseq` `Transformers` `NLP`
+
+The project involved preparation and processing of a **multi-million-sentence parallel corpus**, model training, and evaluation of neural translation systems.
+
+---
+
+### Malayalam Dependency Parser
+
+Worked on the development of a Malayalam dependency parsing system using manually annotated linguistic data.
+
+**Technologies:**
+`Python` `UDPipe` `NLP` `Dependency Parsing`
+
+The work involved corpus annotation, linguistic preprocessing, model training, and evaluation.
+
+---
+
+### RAG-based Conversational System
+
+Developed a conversational AI pipeline integrating:
+
+`ASR → LLM → RAG → Response Generation → TTS`
+
+The system combines speech processing, retrieval-based knowledge access, and language-model-based response generation.
+
+---
+
+### Machine Learning Applications
+
+Developing practical machine-learning applications using Python, including **house-price prediction systems** with interactive Streamlit interfaces.
+
+**Technologies:**
+`Python` `Scikit-learn` `Pandas` `NumPy` `Streamlit`
+
+---
+
+## 🧠 Technical Skills
 
 ### Programming & Data
-🐍 Python • 📊 Pandas • NumPy • SQL • Matplotlib
 
-### Machine Learning & Deep Learning
-🤖 Scikit-learn • PyTorch • TensorFlow • Transformers
+`Python` `SQL` `Pandas` `NumPy` `Matplotlib`
 
-### NLP & Language Technology
-📝 NLP • Morphological Analysis • POS Tagging • Dependency Parsing  
-🌐 Machine Translation • Transformers • Indic NLP • Malayalam NLP
+### Machine Learning
+
+`Scikit-learn` `PyTorch` `TensorFlow`
+
+### NLP & Deep Learning
+
+`Transformers` `Seq2Seq Models` `NLP` `POS Tagging` `Dependency Parsing` `Morphological Analysis`
 
 ### Generative AI
-🧠 LLMs • RAG • LangChain • LangGraph • FAISS
 
-### Speech & Language
-🎙️ ASR • TTS • Whisper • VITS • Indic Speech Technologies
+`LLMs` `RAG` `LangChain` `LangGraph` `FAISS`
+
+### Speech Technology
+
+`Whisper` `ASR` `TTS` `VITS` `Indic Speech Technologies`
 
 ### Development
-🌐 Streamlit • Django • Git • GitHub • Linux
+
+`Django` `Streamlit` `Git` `GitHub` `Linux`
 
 ---
 
-## 🔬 Current Research
+## 📊 Background
 
-**Malayalam Morphological Analyzer**
+**MSc — Data Analytics**
+Mar Athanasius College (Autonomous), Kothamangalam
 
-Working on a **Finite-State / Neural Network based morphological analysis system for Malayalam**, including:
+**Bachelor's Degree — Mathematics**
 
-- Malayalam morphological paradigms
-- Inflectional analysis
-- Lemma identification
-- Morpheme segmentation
-- Transformer-based sequence-to-sequence modeling
-- Malayalam linguistic resource development
+My academic background in mathematics and data analytics provides a foundation for working across **machine learning, statistical analysis, NLP, and AI research**.
 
 ---
 
-## 🚀 Projects
+## 🎯 Research Interests
 
-### 🗣️ Malayalam Conversational AI
-A domain-specific Malayalam conversational system combining:
+I am particularly interested in building AI systems for **under-resourced Indian languages**, with a focus on:
 
-- RAG
-- FAISS Vector Database
-- Malayalam embeddings
-- LLMs
-- Speech Recognition
-- Text-to-Speech
-- Web search fallback
-
-### 🌐 Hindi → Malayalam Machine Translation
-Transformer-based Neural Machine Translation using large-scale parallel corpora and Fairseq.
-
-### 📝 Malayalam Dependency Parser
-Development and evaluation of a Malayalam dependency parsing system using annotated linguistic data and UDPipe.
-
-### 🏠 Machine Learning Applications
-Developing practical ML applications including **house price prediction systems using Python and Streamlit**.
+* Computational Linguistics
+* Malayalam NLP
+* Dravidian Language Technology
+* Multilingual NLP
+* Low-Resource Machine Translation
+* Morphological Processing
+* LLMs for Indian Languages
+* Retrieval-Augmented Generation
+* Speech & Language Technologies
+* Neural Language Models
 
 ---
 
-## 📚 Areas of Interest
+## 🛠️ Currently Working With
 
-- Natural Language Processing
-- Indian Language AI
-- Malayalam Language Technology
-- Machine Translation
-- Morphological Analysis
-- Large Language Models
-- Retrieval-Augmented Generation
-- Speech Processing
-- Deep Learning
-- Data Analytics
+`Python` `PyTorch` `Transformers` `NLP`
+`Malayalam NLP` `Morphological Analysis` `Machine Translation`
+`LLMs` `RAG` `LangGraph` `FAISS`
+`ASR` `TTS` `Streamlit` `Linux`
 
 ---
 
-## 📈 Currently Exploring
+## 📫 Connect
 
-`PyTorch` `Transformers` `LLMs` `RAG` `LangGraph`  
-`Malayalam NLP` `Machine Translation` `Morphological Analysis`  
-`ASR` `TTS` `Generative AI`
+**LinkedIn:** [Renimol V R](YOUR_LINKEDIN_URL)
+**Email:** YOUR_EMAIL
 
 ---
 
-⭐️ *Building AI for languages, one experiment at a time.*
+> **Building language technologies for Indian languages through linguistics, data, and AI.**
