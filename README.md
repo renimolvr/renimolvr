@@ -143,6 +143,7 @@ Developing practical machine-learning applications using Python, including **hou
 Mar Athanasius College (Autonomous), Kothamangalam
 
 **Bachelor's Degree — Mathematics**
+Baselius College, Kottayam
 
 My academic background in mathematics and data analytics provides a foundation for working across **machine learning, statistical analysis, NLP, and AI research**.
 
