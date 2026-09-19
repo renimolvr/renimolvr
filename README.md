@@ -176,8 +176,8 @@ I am particularly interested in building AI systems for **under-resourced Indian
 
 ## 📫 Connect
 
-**LinkedIn:** [Renimol V R](YOUR_LINKEDIN_URL)
-**Email:** YOUR_EMAIL
+**LinkedIn:** [Renimol V R](https://www.linkedin.com/in/renimol-v-r-629baa24b/)
+**Email:** renimolvr2019@gmail.com
 
 ---
 
